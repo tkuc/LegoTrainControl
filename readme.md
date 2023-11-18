@@ -1,15 +1,20 @@
-Project still in WIP
 
+# Project still in WIP
+
+## Project dependencies
 Project based on Legoino_1.1.0 library and NimBLE-Arduino_1.4.1
-
 Software based on platformio
-  
-Laser files:
+
+## 3D model
+### Laser files
 Model/laser/readyToCut/
-	red lines - engraving
-	black lines - cut
-3d model:
-	Model/3d_stl/
+- red lines - engraving
+- black lines - cut
+### Fusion 360 3d model
+Model/
+### STL files
+Model/3d_stl/
+
 
 How to print color buttons:
 1. Use printer with multicolor capabilities :)
